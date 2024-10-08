@@ -281,9 +281,9 @@ body{
 .horizontal-line {
     border: none;
     height: 2px;
-    background-color: #dcdcdc; /* Color of the line */
+    background-color: #dcdcdc; 
     width: 250%;
-    margin: 0 auto; /* Center the line */
+    margin: 0 auto; 
     position: relative;
 }
 
